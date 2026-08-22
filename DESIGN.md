@@ -29,7 +29,11 @@ name and lore.
 ## Milestones
 
 ### Milestone 1 — single-player skeleton (current)
-- Tiny pixel-art tilemap room, one character, top-down movement
+- Tiny pixel-art tilemap room — **Room 1 of a low-stakes "tutorial dungeon"**
+  that opens the game: slow pace, minimal danger, teaches movement and
+  combat before anything can really threaten the player. Not throwaway test
+  content — this is the actual game's opening area.
+- One character, top-down movement
 - Walking into an enemy transitions into a turn-based combat screen
 - One attack action: d20 roll vs. a target number, HP bar
 - Touches: scenes, Tilemap, player controller, a simple explore↔combat state
